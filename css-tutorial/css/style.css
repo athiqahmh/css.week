@@ -1,0 +1,15 @@
+body
+	{
+		background-color: grey;
+	}
+
+h1	
+	{
+		color: lightyellow;
+	}
+
+p	
+	{
+		text-align: right;
+		font-family: Verdana;
+	}
